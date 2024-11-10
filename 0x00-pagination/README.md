@@ -1,0 +1,1 @@
+Pagination is the process of dividing a large dataset into smaller, manageable chunks or "pages." This is especially useful in web and database applications where displaying too much data at once can overwhelm the user and the system. By loading data in pages, users can navigate through content without being bogged down by loading times or cluttered screens.
